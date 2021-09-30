@@ -12,12 +12,13 @@ While developing web_project_1 I used the folowing technologies and techniques:
 * HTML5, CSS3, markdown
 * BEM — Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development
 * Visual Studio Code, Git
-* Responsive web design, Semantic markup
+* Semantic markup
 
 ## Link to the project
 
 https://tatianakomar.github.io/web_project_1/
 
-## Licensing
+## Plans to improve the project
 
-The code in this project is licensed under MIT license.
+* add responsive design
+* make links clicable
